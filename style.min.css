@@ -2186,6 +2186,16 @@ video {
   padding-right: 1rem;
 }
 
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem;
+}
+
+.py-16 {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -2860,6 +2870,10 @@ video {
 
   .lg\:top-1\/2 {
     top: 50%;
+  }
+
+  .lg\:bottom-4 {
+    bottom: 1rem;
   }
 
   .lg\:h-60 {
